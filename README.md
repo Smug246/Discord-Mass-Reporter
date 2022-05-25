@@ -11,7 +11,7 @@
 Don't Forget To ⭐ If You Like It!
 </h3>
 
-### Report The Following: 
+### Report The Following 
 - Illegal Content
 - Harrassment
 - Spam Or Phishing Links
