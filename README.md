@@ -4,7 +4,7 @@
 
 <h2 align="center">
   Discord Mass Reporter is a tool that mass reports a message!
-                                   If you skid this give me credits!
+                                   
 </h2>
 
 <h3 align="center">
