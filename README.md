@@ -18,6 +18,6 @@ Don't Forget To ⭐ If You Like It!
 - Self Harm
 - NSFW Content
 
-   ![ui](https://user-images.githubusercontent.com/99215486/170328627-10b90825-1168-465c-a9b8-4c0343c4a47a.png)
+     ![ui](https://user-images.githubusercontent.com/99215486/170328627-10b90825-1168-465c-a9b8-4c0343c4a47a.png)
 
 > Don't quite understand how to set it up? [Click me!](https://discord.gg/luna22)
