@@ -1,5 +1,5 @@
 <h1 align="center">
-  Discord Mass Reporter❌
+  Discord Mass Reporter❌ (CURRENTLY PATCHED)
 </h1>
 
 <h2 align="center">
