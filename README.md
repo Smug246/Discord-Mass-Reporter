@@ -20,6 +20,4 @@ Don't Forget To ⭐ If You Like It!
 
 ![ui](https://user-images.githubusercontent.com/99215486/170328627-10b90825-1168-465c-a9b8-4c0343c4a47a.png)
   
-> Don't understand how to set it up? [Click me!](https://discord.gg/HWeThmwy2J)
-
-###  If you skid this give me credits!
+> Still don't quite understand how to set it up? Make an issue or [Click me!](https://discord.gg/qqHM44c55h)
