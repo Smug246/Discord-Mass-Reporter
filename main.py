@@ -63,7 +63,7 @@ def MassReport():
   }
 
   while True:
-    r = requests.post('https://discord.com/api/v6/report', headers=headers, json=payload)
+    r = requests.post('https://discord.com/api/v9/report', headers=headers, json=payload)
     if r.status_code == 201:
       print(f"{s+Fore.MAGENTA} > {Fore.RESET}Sent Report ID {message_id1}")
       os.system(f'Sending Reports. . .')
