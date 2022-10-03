@@ -67,7 +67,6 @@ def MassReport():
     if r.status_code == 201:
       print(f"{s+Fore.MAGENTA} > {Fore.RESET}Sent Report ID {message_id1}")
       os.system(f'Sending Reports. . .')
-      sent += 1
       
     elif r.status_code == 401:
       print(f"{Fore.RED} > Invalid token")
